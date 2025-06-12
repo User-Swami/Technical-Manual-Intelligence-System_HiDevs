@@ -1,1 +1,9 @@
-# Technical-Manual-Intelligence-System_HiDevs
+# Technical Manual Intelligence System
+
+This project is automatically generated.
+
+## Installation
+
+```sh
+pip install -r requirements.txt
+```
